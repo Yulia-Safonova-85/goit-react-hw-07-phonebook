@@ -3,9 +3,7 @@ import { ContactList } from "./ContactList/ContactList";
 import { Filter } from "./Filter/Filter";
 import { Layout } from "./Layout/Layout.styled";
 
-
 export const App = () => {
-  
   return (
     <Layout>
      <h1>Phonebook</h1>
